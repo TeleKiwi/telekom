@@ -1,7 +1,5 @@
-# React Firebase Super Chat
+# TeleKom
 
-A simple fullstack chat demo with React and Firebase. 
+it's better than discord ig
 
-Watch on full [React Firebase Chat Tutorial](https://youtu.be/zQyrwxMPm88) on YouTube. 
-
-[Live demo](https://fireship-demos.web.app/)
+i just forked this from a tutorial's repo ok javascript is hard and the tutorial i was following is outdated and i couldnt get anything to work this language is the bane of my existence
